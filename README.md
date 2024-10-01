@@ -2,9 +2,8 @@
 ## About me
 Hi! I'm Andrew, an NYU junior studying Computer Science and Math <br>
 In my free time lately I've been tinkering with math and physics simulations <br>
-My other interests include hackathons, basketball, volleyball, reading, writing, and film<br>
+My other interests include hackathons, basketball, volleyball, reading, writing, and film<br><br>
 
-## Contact
 I'm always down to meet new people and collaborate on projects! <br>
 Feel free to reach out to <andrewjiang7890@gmail.com> to contact me, or if you're feeling professional I'm also on [Linkedin](https://www.linkedin.com/in/andrewminghanjiang/)
 
