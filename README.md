@@ -2,7 +2,7 @@
 ## About me
 Hi! I'm Andrew, an NYU junior studying Computer Science and Math <br>
 In my free time lately I've been tinkering with math and physics simulations <br>
-My other interests include hackathon, basketball, volleyball, reading, writing, and film<br>
+My other interests include hackathons, basketball, volleyball, reading, writing, and film<br>
 
 ## Contact
 I'm always down to meet new people and collaborate on projects! <br>
